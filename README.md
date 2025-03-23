@@ -1,10 +1,9 @@
 <div id="header" align="center">
   <img decoding="async" src="https://raw.githubusercontent.com/victor99p/victor99p/refs/heads/main/White%20and%20Black%20Simple%20Marketing%20LinkedIn%20Banner.png" width="800"/>
 </div>
+<div align="center">
 <h1 align="center">Hi 👋, I'm Víctor Polo</h1>
 <h3 align="center">A passionate application developer from Spain</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=victor99p&label=Profile%20views&color=0e75b6&style=flat" alt="victor99p" /> </p>
 
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/v%c3%adktor-polo-ant%c3%b3n-a19723260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/víctor-polo-antón-a19723260" height="30" width="40" /></a>
@@ -17,4 +16,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victor99p&show_icons=true&locale=en" alt="victor99p" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=victor99p&" alt="victor99p" /></p>
-
+</div>
